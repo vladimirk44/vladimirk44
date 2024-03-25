@@ -1,0 +1,2 @@
+- My name is Vladimor
+- I want to learn how to code
